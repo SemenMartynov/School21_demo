@@ -122,7 +122,7 @@ jupyter-server==2.20.0
     #   notebook-shim
 jupyter-server-terminals==0.5.4
     # via jupyter-server
-jupyterlab==4.5.9
+jupyterlab==4.5.10
     # via -r requirements.in
 jupyterlab-pygments==0.3.0
     # via nbconvert
